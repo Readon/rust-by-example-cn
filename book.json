@@ -1,0 +1,19 @@
+{
+    "root": "src",
+
+    "structure": {
+        "readme": "PREFACE.md"
+    },
+
+    "title": "通过例子学 Rust 简体中文版",
+
+    "description": "通过例子学 Rust 简体中文版",
+
+    "author": "Rust 社区的贡献，Aaklo Xu 以及 Rust 中文社区翻译",
+
+    "language": "zh-hans",
+
+    "plugins": [],
+
+    "pluginsConfig": {}
+}
